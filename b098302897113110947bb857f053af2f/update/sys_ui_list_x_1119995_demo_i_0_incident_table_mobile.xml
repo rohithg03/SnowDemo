@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_1119995_demo_i_0_incident_table" version="2" view="Mobile">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_1119995_demo_i_0_incident_table" element="NULL" name="x_1119995_demo_i_0_incident_table" parent="NULL" relationship="NULL" sys_domain="global" view="7bced072d423211095d7c105f1bf439a">26d1056c97113110947bb857f053af04</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-12 05:39:41</sys_created_on>
+            <sys_id>6ad1cd2097513110947bb857f053afbb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-12 05:39:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>caller</element>
+            <list_id display_value="x_1119995_demo_i_0_incident_table" element="NULL" name="x_1119995_demo_i_0_incident_table" parent="NULL" relationship="NULL" sys_domain="global" view="7bced072d423211095d7c105f1bf439a">26d1056c97113110947bb857f053af04</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-12 05:39:41</sys_created_on>
+            <sys_id>a2d1cd2097513110947bb857f053afbc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-12 05:39:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>description</element>
+            <list_id display_value="x_1119995_demo_i_0_incident_table" element="NULL" name="x_1119995_demo_i_0_incident_table" parent="NULL" relationship="NULL" sys_domain="global" view="7bced072d423211095d7c105f1bf439a">26d1056c97113110947bb857f053af04</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-12 05:39:41</sys_created_on>
+            <sys_id>a6d1cd2097513110947bb857f053afbc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-12 05:39:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="x_1119995_demo_i_0_incident_table" element="NULL" name="x_1119995_demo_i_0_incident_table" parent="NULL" relationship="NULL" sys_domain="global" view="7bced072d423211095d7c105f1bf439a">26d1056c97113110947bb857f053af04</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-12 05:39:41</sys_created_on>
+            <sys_id>aad1cd2097513110947bb857f053afbc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-12 05:39:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="x_1119995_demo_i_0_incident_table" element="NULL" name="x_1119995_demo_i_0_incident_table" parent="NULL" relationship="NULL" sys_domain="global" view="7bced072d423211095d7c105f1bf439a">26d1056c97113110947bb857f053af04</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-12 05:39:41</sys_created_on>
+            <sys_id>aed1cd2097513110947bb857f053afbc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-12 05:39:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>status</element>
+            <list_id display_value="x_1119995_demo_i_0_incident_table" element="NULL" name="x_1119995_demo_i_0_incident_table" parent="NULL" relationship="NULL" sys_domain="global" view="7bced072d423211095d7c105f1bf439a">26d1056c97113110947bb857f053af04</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-12 05:39:41</sys_created_on>
+            <sys_id>a2d1cd2097513110947bb857f053afbd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-12 05:39:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1119995_demo_i_0_incident_table</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-12 05:39:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>26d1056c97113110947bb857f053af04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1119995_demo_i_0_incident_table</sys_name>
+            <sys_package display_value="Demo_IT_Helpdesk" source="x_1119995_demo_i_0">b098302897113110947bb857f053af2f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Demo_IT_Helpdesk">b098302897113110947bb857f053af2f</sys_scope>
+            <sys_update_name>sys_ui_list_x_1119995_demo_i_0_incident_table_Mobile</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-12 05:39:41</sys_updated_on>
+            <sys_user/>
+            <view display_value="Mobile" name="Mobile">7bced072d423211095d7c105f1bf439a</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
